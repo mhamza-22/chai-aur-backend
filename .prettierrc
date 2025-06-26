@@ -1,0 +1,8 @@
+//usage of prettiers//
+{
+    "singleQuote";false,
+    "bracketspacing";true,
+     "trailingcomma";"es5",
+    "tabwidth";2
+    "semi";true
+}
